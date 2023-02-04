@@ -1,0 +1,28 @@
+/* mobile */
+
+:root{
+    --dark-cyan: hsl(158, 36%, 37%);
+    --cream: hsl(30, 38%, 92%);
+    --very-dark-blue: hsl(212, 21%, 14%);
+    --dark-grayish-blue: hsl(228, 12%, 48%);
+    --white: hsl(0, 0%, 100%);
+}
+
+.clr-dark-cyan{color: var(--dark-cyan);}
+.clr-cream{color: var(--cream);}
+.clr-vd-blue{color: var(--very-dark-blue);}
+.clr-dg-blue{color: var(--dark-grayish-blue);}
+.clr-white{color: var(--white);}
+
+.bg-dark-cyan{background-color: var(--dark-cyan);}
+.bg-cream{background-color: var(--cream);}
+.bg-vd-blue{background-color: var(--very-dark-blue);}
+.bg-dg-blue{background-color: var(--dark-grayish-blue);}
+.bg-white{background-color: var(--white);}
+
+.fw-500{font-weight: 500;}
+.fw-700{font-weight: 700;}
+
+body{
+    font-family: "Montserrat";
+}
